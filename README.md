@@ -1,74 +1,64 @@
 # <h1 align="center">Hi 👋, I'm Arjav Jain</h1>
 
-<h3 align="center">📊 Aspiring Data Analyst | 🤖 AI & Machine Learning Enthusiast | 💻 Software Developer</h3>
+<h3 align="center">
+📊 Aspiring Data Analyst | 🤖 Machine Learning Enthusiast | 💻 Software Developer
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Information+Science+Engineering+Student;Data+Analytics+Enthusiast;Machine+Learning+Developer;Python+%7C+SQL+%7C+Power+BI;Always+Learning+New+Things" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=arjavjain310&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Information+Science+Engineering+Student;Data+Analytics+Enthusiast;Machine+Learning+Developer;Python+%7C+SQL+%7C+Power+BI;Building+Data+Driven+Solutions" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 🎓 Final Year Information Science Engineering Student at **CMR Institute of Technology, Bangalore**
 
-📊 Passionate about **Data Analytics, Machine Learning, Artificial Intelligence, and Software Development**
+💡 Passionate about Data Analytics, Machine Learning, and Software Development.
 
-💡 I enjoy building data-driven applications that solve real-world problems and create meaningful impact.
+📈 I enjoy transforming raw data into meaningful insights and building intelligent applications that solve real-world problems.
 
-🌱 Currently Learning:
+🌱 Currently exploring:
 
-* Advanced SQL
 * Data Analytics
 * Machine Learning
-* Full Stack Development
-* Data Visualization
+* Advanced SQL
+* Full-Stack Development
 
-🎯 Career Goal:
+🎯 Seeking opportunities in:
 
-* Data Analyst
-* Data Scientist
-* Machine Learning Engineer
-* Software Developer
+* Data Analytics
+* Data Science
+* Software Development
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
 </p>
 
-## 🌐 Frontend Development
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
-## 🤖 Data Science & Machine Learning
+### Data Science & Analytics
 
 <p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" />
-</p>
-
-## 📊 Visualization Tools
-
-<p>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel" />
 </p>
 
-## ⚙️ Tools & Platforms
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -78,158 +68,82 @@
 
 # 🚀 Featured Projects
 
-## 🏠 Real Estate Price Prediction
+<table>
+<tr>
+<td width="50%">
 
-Machine Learning application that predicts Bangalore house prices using historical real estate data.
+### 🏠 Real Estate Price Prediction
 
-### Features
+Predicts Bangalore house prices using Machine Learning and historical real estate data.
 
-✅ Data Cleaning & Preprocessing
+#### Highlights
 
-✅ Feature Engineering
+* Data Cleaning & Feature Engineering
+* Outlier Detection
+* Hyperparameter Tuning
+* Interactive Prediction Dashboard
 
-✅ Outlier Detection
+#### Tech Stack
 
-✅ Hyperparameter Tuning
+Python • Pandas • NumPy • Scikit-Learn • Flask • Streamlit
 
-✅ Interactive Streamlit Interface
-
-### Tech Stack
-
-Python | Pandas | NumPy | Scikit-Learn | Flask | Streamlit
-
-🔗 Live Demo:
+🔗 **Live Demo**
 https://real-estate-price-prediction-zpshtbvycsjgvmflya8bjp.streamlit.app
 
----
+</td>
 
-## ⚡ AI-Powered Predictive Maintenance for Renewable Energy
+<td width="50%">
 
-Developed a Deep Learning system that predicts wind turbine failures and estimates Remaining Useful Life (RUL).
+### ⚡ AI-Powered Predictive Maintenance
 
-### Features
+Deep Learning system that predicts wind turbine failures and Remaining Useful Life (RUL).
 
-✅ Time Series Analysis
+#### Highlights
 
-✅ LSTM Neural Networks
+* LSTM Neural Networks
+* Time-Series Analysis
+* Failure Prediction
+* Predictive Maintenance
 
-✅ Failure Prediction
+#### Tech Stack
 
-✅ Sensor Data Processing
+Python • TensorFlow • Pandas • NumPy • Scikit-Learn
 
-✅ Maintenance Recommendations
-
-### Tech Stack
-
-Python | TensorFlow | Pandas | NumPy | Scikit-Learn
-
-🔗 Live Demo:
+🔗 **Live Demo**
 https://ai-powered-predective-maintenance-310.streamlit.app
 
+</td>
+</tr>
+</table>
+
 ---
 
-## 📈 Retail Sales Forecasting & Trend Analysis
+### 📈 Retail Sales Forecasting & Trend Analysis
 
-Interactive analytics dashboard for forecasting sales and analyzing retail trends.
+A business intelligence dashboard that analyzes sales performance and predicts future trends.
 
-### Features
+#### Key Features
 
-✅ Sales Forecasting
+📊 Interactive Analytics Dashboard
 
-✅ Trend Analysis
+📈 Sales Forecasting Models
 
-✅ Business Insights
+🛒 Category-Wise Performance Analysis
 
-✅ Interactive Dashboard
+📅 Time-Series Trend Analysis
 
-✅ Data Visualization
+💰 Business Insights & Revenue Tracking
 
-### Tech Stack
+#### Tech Stack
 
-Python | Pandas | Plotly | Scikit-Learn | Streamlit
+Python • Pandas • Plotly • Scikit-Learn • Streamlit
 
-🔗 Live Demo:
+🔗 **Live Demo**
 https://jbuycdl9xwliglpk7fcrnf.streamlit.app
 
 ---
 
-# 🎯 Current Focus
-
-```python
-class ArjavJain:
-
-    def __init__(self):
-        self.role = "Aspiring Data Analyst"
-        self.skills = ["Python", "SQL", "Machine Learning", "Power BI"]
-        self.current_learning = [
-            "Data Analytics",
-            "Machine Learning",
-            "Advanced SQL",
-            "Software Development"
-        ]
-
-    def future_goal(self):
-        return "Become a Data Scientist and build impactful solutions"
-```
-
----
-
-# 🏆 Achievements
-
-🥇 Awarded by Government of Assam for Academic Excellence
-
-🏆 Smart India Hackathon 2023 Participant
-
-🏆 Aptitude Hackathon 2024 Participant
-
-🏆 Winner of Inter-School Debate Competition
-
-👨‍💼 Class Representative (1st Semester)
-
----
-
-# 📜 Certifications
-
-✅ The Complete Python Developer
-
-✅ SQL For Beginners
-
-✅ Learn Java Programming
-
-✅ The Data Analyst Course
-
-✅ Complete Full Stack Web Development
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arjavjain310&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjavjain310&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arjavjain310&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arjavjain310&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-[![Arjav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arjavjain310\&theme=tokyo-night)](https://github.com/arjavjain310)
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
@@ -249,14 +163,6 @@ class ArjavJain:
 
 ---
 
-# ⚡ Fun Fact
-
-💡 I love transforming raw data into meaningful insights.
-
-📊 Data Analytics + AI + Problem Solving = My Passion
-
-🚀 Always learning, building, and growing.
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile! Let's connect and build something amazing together.</h3>
+<p align="center">
+<i>"Turning data into insights and ideas into solutions."</i>
+</p>
