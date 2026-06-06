@@ -116,32 +116,6 @@ https://ai-powered-predective-maintenance-310.streamlit.app
 </tr>
 </table>
 
----
-
-### 📈 Retail Sales Forecasting & Trend Analysis
-
-A business intelligence dashboard that analyzes sales performance and predicts future trends.
-
-#### Key Features
-
-📊 Interactive Analytics Dashboard
-
-📈 Sales Forecasting Models
-
-🛒 Category-Wise Performance Analysis
-
-📅 Time-Series Trend Analysis
-
-💰 Business Insights & Revenue Tracking
-
-#### Tech Stack
-
-Python • Pandas • Plotly • Scikit-Learn • Streamlit
-
-🔗 **Live Demo**
-https://jbuycdl9xwliglpk7fcrnf.streamlit.app
-
----
 
 ## 🌐 Connect With Me
 
